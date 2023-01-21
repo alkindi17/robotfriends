@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alkindi17.github.io/robofriends",
+  "homepage": "https://alkindi17.github.io/robotfriends",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
